@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/pre-dexed/debug/classes-ccb78bef32a94ccfcca65a2cb2fe0144923b73c7.jar" />
+    </item>
+    <item
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/pre-dexed/debug/classes-9f8f4c42a27827e757e904453e3a9c6f84499a55.jar" />
+    </item>
+    <item
+        jar="/Users/Chandru-MacBook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-8457f3d9b84dc9f741eca0b51100c6ba16df7737.jar" />
+    </item>
+    <item
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/pre-dexed/debug/classes-0231cb0fef53b35b0a87a6670eab68ff853d6b43.jar" />
+    </item>
+    <item
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-56bbf2c631de58676f922b79c4f1e278f155818b.jar" />
+    </item>
+    <item
+        jar="/Users/Chandru-MacBook/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/FABExpandCollapseAnimation/FABExpandCollapseAnimation/app/build/intermediates/pre-dexed/debug/library-2.4.0-c35ff562a2c40afa727292550cae27e9b956dc5b.jar" />
+    </item>
+
+</items>
